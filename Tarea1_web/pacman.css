@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: purple;
+}
+#general {
+    margin: auto;
+    margin-top: 15px;
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+}
+#caja1{
+    margin: auto;
+    width: 560px;
+    height: 150px;
+    background-color: red;
+}
+#caja2{
+    margin: auto;
+    
+    width: 560px;
+    height: 150px;
+    background-color: yellow;
+}
+#caja3{
+    margin: auto;
+    float: left;
+    width: 250px;
+    height: 150px;
+    background-color: green;
+}
+#caja4{
+    margin: auto;
+    float: right;
+    
+    width: 250px;
+    height: 150px;
+    background-color: brown;
+}
+#tarea1{
+    margin: auto;
+    margin-top: 200px;
+    width: 800px;
+    height: 800px;
+    background-color: rosybrown;
+}
+#ojitos_palomita{
+    margin: auto;
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-color: blue;
+}
+#ojito_palomitay{
+    margin: auto;
+    margin-top: 200px;
+    margin-right: 100px;
+    width: 200px;
+    height: 200px;
+    float: right;
+    background-color: aqua;
+}
+#naricita{
+    clear: both;
+    margin: auto;
+    margin-top: 100px;
+    width: 100px;
+    height: 100px;
+
+    background-color: brown;
+}
+#bocota_O-o{
+    margin: auto;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
